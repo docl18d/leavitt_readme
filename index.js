@@ -29,3 +29,39 @@ const init = async _ => {
       } else {
         console.log(`${object.fullName} found!`)
       }
+    } while (!object)
+
+    // const ghApi = await api.getUser(user)
+  Object.assign(object, await prompt([
+    
+    {
+      type: 'input',
+      name: 'inst',
+      message: 'What are the installation instructions?'
+    },
+    {
+      type: 'input',
+      name: 'use',
+      message: 'What is the usage description?'
+    },
+   
+    {
+      type: 'input',
+      name: 'con',
+      message: 'Who are the contributors?'
+    },
+    {
+      type: 'input',
+      name: 'test',
+      message: 'What are the tests?'
+    },
+    {
+      type: 'input',
+      name: 'qs',
+      message: 'Any questions?'
+    }
+  ]))
+  writeToFile(object.title, await generateMarkdown(object))
+}
+
+init()
