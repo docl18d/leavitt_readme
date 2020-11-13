@@ -1,18 +1,18 @@
 
   <a href="https://github.com/powerline" style="float:right"><img src="https://avatars2.githubusercontent.com/u/10100576?v=4" alt="powerline" title="powerline" width="120" height="120"></a>
   # FONTS
-  ![License: None](https://img.shields.io/badge/License-None-brightgreen)
-  _Repo by powerline_
-  __Patched fonts for Powerline users.__
-  ---
-  __Installation:__
+  ![[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)]
+  Repo by powerline
+  Patched fonts for Powerline users.
   
-  __Usage:__
+  Installation:
   
-  __Contributors:__
+  Usage:
   
-  __Tests:__
+  Contributors:
   
-  __Questions:__
+  Tests:
+  
+  Questions:
   
   
