@@ -6,13 +6,13 @@
   __null__
   ---
   __Installation:__
-  Clone this repository to your computer.  You can get the information by pressing the green code button.  make sure you use the https address for the clone.
+   Clone this repository to your computer.  You can get the information by pressing the green code button.  make sure you use the https address for the clone.
   __Usage:__
   open up your Visual studio and open the folder with your code in it.  Open your terminal and make sure you are in the same folder as your index.js file.  Run "node index.js" and anwer the questions.
   __Contributors:__
-  me.
+  me
   __Tests:__
-  
+  none
   __Questions:__
-  
+  no
   
