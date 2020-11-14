@@ -1,6 +1,6 @@
 
   <a href="https://github.com/docl18d" style="float:right"><img src="https://avatars3.githubusercontent.com/u/68399114?v=4" alt="docl18d" title="docl18d" width="120" height="120"></a>
-  # LEAVITT_README
+  # leavitt_readme
   ![License: [object Object]](https://img.shields.io/badge/License-[object Object]-brightgreen)
   Repo by docl18d
   
