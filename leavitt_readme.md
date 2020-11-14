@@ -3,7 +3,7 @@
   # LEAVITT_README
   ![License: [object Object]](https://img.shields.io/badge/License-[object Object]-brightgreen)
   Repo by docl18d
-  null
+  
   
   Installation:
   Fork my file to your repository. Usage: Open this file in VSC or your code writting app.
