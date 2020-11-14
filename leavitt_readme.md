@@ -6,13 +6,13 @@
   null
   
   Installation:
-  fork my file to your repository.
+  Fork my file to your repository. Usage: Open this file in VSC or your code writting app.
   Usage:
-  Open this file in VSC or your code writting app.  Open your terminal. type in "node index.js" and hit enter.  Answer the questions.
+  Open your terminal. type in "node index.js" and hit enter.
   Contributors:
   me
   Tests:
-  none.
+  none
   Questions:
-  nope.
+  no
   
