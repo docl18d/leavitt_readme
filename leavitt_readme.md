@@ -6,13 +6,13 @@
   null
   
   Installation:
-  Fork my file to your repository. 
+  Fork my file to your repository.
   Usage:
-  Open this file in VSC or your code writting app.
+   Open this file in VSC or your code writting app.  Right click on the index.js file and click on "open in Integrated Terminal".  Type "node index.js" in the terminal.  Answer the questions as they are populated.  It helps if you have written them out and can cut and past them from a different screen.
   Contributors:
-  noone
+  None
   Tests:
-   Open your terminal. type in "node index.js" and hit enter.
+  none available
   Questions:
-  none
+  none.
   
